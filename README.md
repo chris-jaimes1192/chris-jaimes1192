@@ -2,7 +2,7 @@
   ╔══════════════════════════════════════════════════════════════╗
   ║  PLANTILLA DE README DE PERFIL DE GITHUB — SENA ADSO         ║
   ║  Copia este archivo (y la carpeta assets/) a tu repo         ║
-  ║  chris-jaimes1192. Lee GUIA.md para el paso a paso.    ║
+  ║  TU-USUARIO/TU-USUARIO. Lee GUIA.md para el paso a paso.    ║
   ║  Busca "✏️ EDITA" para encontrar todo lo que debes cambiar.  ║
   ║  Cuando termines, borra los comentarios que ya no necesites. ║
   ╚══════════════════════════════════════════════════════════════╝
